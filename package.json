@@ -28,7 +28,7 @@
   "_spec": "fca-disme",
   "_where": "C:\\Users\\truonggiangvps\\Desktop\\mirai1.2.15-vuotgban-get",
   "author": {
-    "name": "Avery, David, Maude, Benjamin, UIRI"
+    "name": "Avery, David, Maude, Benjamin, UIRI, mod Khanh Shado"
   },
   "bugs": {
     "url": "https://github.com/Schmavery/facebook-chat-api/issues"
@@ -44,7 +44,7 @@
     "websocket-stream": "^5.5.0"
   },
   "deprecated": false,
-  "description": "A Facebook chat API that doesn't rely on XMPP. Phục hồi và phát triển by DongDev",
+  "description": "A Facebook chat API that doesn't rely on XMPP. Fix by Khanh Shado",
   "devDependencies": {
     "eslint": "^7.5.0",
     "mocha": "^7.0.1",
